@@ -11,3 +11,5 @@ INFO: Unsupported notification method: $/setTrace
 2024.05.19 15:39:12 INFO  no build target found for /Users/halanmac/Documents/rockthejvm/typelevel-project/src/main/scala/com/typelevelproject/jobsboard/playground/SimplePlayground.scala. Using presentation compiler with project's scala-library version: 3.3.3
 2024.05.19 15:40:15 INFO  no build target found for /Users/halanmac/Documents/rockthejvm/typelevel-project/src/main/scala/com/typelevelproject/jobsboard/playground/SimplePlayground.scala. Using presentation compiler with project's scala-library version: 3.3.3
 2024.05.19 15:40:20 INFO  no build target found for /Users/halanmac/Documents/rockthejvm/typelevel-project/src/main/scala/com/typelevelproject/jobsboard/playground/SimplePlayground.scala. Using presentation compiler with project's scala-library version: 3.3.3
+May 19, 2024 3:42:50 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
